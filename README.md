@@ -6,4 +6,4 @@ This repository is a showcase of SQL projects that were created in the past. The
 
 # Preview
 
-![Preview of this project.](https://github.com/micgonzalez/MySQL-Database-Visualizations/blob/main/mysql_employees_db/mysql_employees_bar_chart.png)
+![Preview of this project.](https://github.com/micgonzalez/Showcase-of-SQL-Projects/blob/main/SQL_data_science.jpg)
