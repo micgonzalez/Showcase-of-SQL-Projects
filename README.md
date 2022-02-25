@@ -1,2 +1,9 @@
-# Showcase-of-SQL-Projects
-This repository is based on pulling data from a range of different SQL databases. This was created to display my ability to make visualizations from this type of dataset.
+# Showcase of SQL Projects
+
+# Introduction
+
+This repository is a showcase of SQL projects that were created in the past. These projects are based on pulling data from a range of different SQL databases. These projects will showcase the different uses of SQL. The projects will be placed in different folder with unique names that will have descriptive words. These folders will include the original Jupyter Notebook file, a PDF version, Powerpoint presentations and a PDF version from these projects.   
+
+# Preview
+
+![Preview of this project.](https://github.com/micgonzalez/MySQL-Database-Visualizations/blob/main/mysql_employees_db/mysql_employees_bar_chart.png)
